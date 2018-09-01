@@ -1,43 +1,27 @@
-$$$
+$$
 \Huge{\mathbb{{R}^{\rightsquigarrow}\hspace{-2em}oad}{2}^\hspace{-0.5em}\mathsf{R}\mathcal{ust}}_{\rightsquigarrow}   \\
 \looparrowright\textit{per aspera✶ad rust}^{\, \textit{a}}
-$$$
+$$
 
-**Meta**    
-- lang: [Rust][trl]
-- desc: Rust language reference (with origin story)
-- type: markdown text
-- repo: https://github.com/mandober/rust-debrief
-- date: 2017
-- [GitBooks legacy][gbl]
-- [GitBooks][gbn] (but no mathJax support)
+# Road to Rust
 
+From CS to Rust by bullet point
+
+**Meta**   
+- name: Road to Rust (rd2rs) 
+- repo: [https://github.com/mandober/road2rust][ghr]
+- date: 2018
+- subjects: math, logic, CS, [Rust][trl]
 
 **Project**    
-Articles, posts, notes, tips, listings, indices, maps, references, cheat-sheets and other products of my Rust accretion. Many concepts are still verbatim copies of the original articles or their excerpts, waiting to be digested, analyzed, summarized, classified, or at least properly linked.
+Articles, posts, notes, tips, listings, indices, maps, references, cheat-sheets and other products of my Rust accretion. The subjects of the project got wider then initially planned, it now includes background from mathematics, logic and CS.
 
 **Material**    
-Mostly gathered by rummaging through official channels (API reference, the Old and the New Book, Rust Reference, The Rustonomicon, The Unstable Book, Rust by Example, The Rust Cookbook, Internals and User Forum, The Grammar, The Style guide, The Cargo Book, Rust official blog, The API Guidelines, The Error Index, RFCs, the FAQ, The Compiler Guide, Rust Edition Guide, etc.) and many other encountered resources.
+Material about Rust mostly gathered by rummaging through official channels like API reference, the Old and the New Book, Rust Reference, The Rustonomicon, The Unstable Book, Rust by Example, The Rust Cookbook, Internals and User Forum, The Grammar, The Style guide, The Cargo Book, Rust official blog, The API Guidelines, The Error Index, RFCs, the FAQ, The Compiler Guide, Rust Edition Guide and many other encountered resources. The main source of math and CS subjects was Wikipedia.
 
-**Purpose**   
-Trying to get a better grasp on the huge Rust universe (and beyond, towards CS in general), an insight of what is available, where it's located and how it all fits together. An attempt to extract essentials in the form of bullet-point summary, followed by detailed explanation (consolidation through explanation learning principle).
-
-
-
-<details>
-
-<summary>Research</summary>
-    
-- collapsible mind-map of all std items      
-- well-established crates that complement std: list of canonical, de facto standard crates to comprise a mega meta-crate that re-exports paths from containing child crates mimicking and complementing std paths        
-- free publishing platform with Latex support          
-    
-</details><br>
+**Purpose**    
+Consolidation of knowledge through explanation learning principle. Trying to get a better grasp on the huge Rust universe (and beyond, towards CS in general); an insight of what is available, where it's located and how it all fits together. An attempt to extract the essential info in the form of bullet-point summary, followed by the excruciating details.
 
 
-
-
-[gbl]: https://mandober.gitbooks.io/rust-debrief
-[gbn]: https://devrev.gitbook.io/rust-debrief/
-[ghr]: https://github.com/mandober/rust-debrief
 [trl]: https://www.rust-lang.org/
+[ghr]: https://github.com/mandober/road2rust
