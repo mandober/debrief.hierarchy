@@ -1,27 +1,14 @@
-$$
-\Huge{\mathbb{{R}^{\rightsquigarrow}\hspace{-2em}oad}{2}^\hspace{-0.5em}\mathsf{R}\mathcal{ust}}_{\rightsquigarrow}   \\
-\looparrowright\textit{per aspera✶ad rust}^{\, \textit{a}}
-$$
-
 # Road to Rust
 
 From CS to Rust by bullet point
 
-**Meta**   
-- name: Road to Rust (rd2rs) 
-- repo: [https://github.com/mandober/road2rust][ghr]
+**Meta**
+- name: Road to Rust
+- repo: https://github.com/mandober/road2rust
 - date: 2018
-- subjects: math, logic, CS, [Rust][trl]
+- subjects: math, math.ST, math.LO, math.TT, math.CT, cs.TC, cs.PL, cs.PL.FP, cs.PL.Rust
 
-**Project**    
-Articles, posts, notes, tips, listings, indices, maps, references, cheat-sheets and other products of my Rust accretion. The subjects of the project got wider then initially planned, it now includes background from mathematics, logic and CS.
-
-**Material**    
-Material about Rust mostly gathered by rummaging through official channels like API reference, the Old and the New Book, Rust Reference, The Rustonomicon, The Unstable Book, Rust by Example, The Rust Cookbook, Internals and User Forum, The Grammar, The Style guide, The Cargo Book, Rust official blog, The API Guidelines, The Error Index, RFCs, the FAQ, The Compiler Guide, Rust Edition Guide and many other encountered resources. The main source of math and CS subjects was Wikipedia.
 
 **Purpose**    
-Consolidation of knowledge through explanation learning principle. Trying to get a better grasp on the huge Rust universe (and beyond, towards CS in general); an insight of what is available, where it's located and how it all fits together. An attempt to extract the essential info in the form of bullet-point summary, followed by the excruciating details.
+"Consolidation of knowledge through explanation and notation, hold the explanation" learning principle. Getting a better grasp on the CS universe and the place of Rust within it. An insight into what's available, where it's at and how it all fits together. Attempting to extract the essentials (followed by details, if needed). With an (grave) accent on the math and cs theory.
 
-
-[trl]: https://www.rust-lang.org/
-[ghr]: https://github.com/mandober/road2rust

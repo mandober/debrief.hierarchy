@@ -2,8 +2,8 @@
   "title": "Road to Rust",
   "description": "From CS to Rust by bullet point",
   "author": "Ilic Ivan <ilicivan@zoho.com>",
-  "structure": {
-    "readme": "README.md",
-    "summary": "SUMMARY.md"
-  }
+  "plugins": [
+    "mathjax",
+    "expandable-chapters"
+  ]
 }
