@@ -1,9 +1,10 @@
 # Summary
 
-* [Introduction](README.md)
+* [README](README.md)
 
 
 ## Discrete math
+
 * [Discrete Math](./dm/discrete-math/README.md)
 * [Set Theory](./dm/sets/README.md)
     * [Set](./dm/sets/set.md)
@@ -99,8 +100,3 @@
     * [Monads](./dm/category-theory/monads.md)
     * [Kan Extensions](./dm/category-theory/kan-extensions.md)
     * [Theorems of Category Theory](./dm/category-theory/theorems.md)
-
-## CS
-
-## Rust
-

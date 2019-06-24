@@ -2,6 +2,6 @@
 
 - name: math-for-cs
 - repo: https://github.com/mandober/math-for-cs
-- date: 2018-19
-- tags: math, math.dm, math.lo, math.cs
-- desc: Analysis before synthesis
+- date: 2017-2019
+- tags: math, math.DM, math.LO, math.CS
+- desc: Math for CS bullet points. Analysis before synthesis.
