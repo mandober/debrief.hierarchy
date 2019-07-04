@@ -1,9 +1,0 @@
-{
-  "title": "Math for CS",
-  "description": "Math by bullet point",
-  "author": "Ilic Ivan <ilicivan@zoho.com>",
-  "plugins": [
-    "mathjax",
-    "expandable-chapters"
-  ]
-}

@@ -1,2 +1,0 @@
-# Simply Typed Lambda Calculus
-

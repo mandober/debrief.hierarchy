@@ -1,2 +1,0 @@
-# Constructive Type theory
-
