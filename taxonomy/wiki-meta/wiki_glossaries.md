@@ -1,0 +1,3 @@
+- [Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence)
+- [Glossary of computer science](https://en.wikipedia.org/wiki/Glossary_of_computer_science)
+- [Glossary of electrical and electronics engineering](https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering)
