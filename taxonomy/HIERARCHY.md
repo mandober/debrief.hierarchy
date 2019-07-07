@@ -3,7 +3,7 @@
 The ACM Computing Classification System (CCS) is a subject classification system for computer science devised by the Association for Computing Machinery, used by to organize subjects by area.
 
 
-1. `Hardware`
+1. **Hardware**
   1.0. General
   1.4. I/O and Data Communications
     1.4.1. Data Communications Devices
@@ -24,8 +24,7 @@ The ACM Computing Classification System (CCS) is a subject classification system
     - Memory hierarchy
   - Buses
 
-
-2. `Computer Systems Organization`
+2. **Computer Systems Organization**
   2.0. GENERAL
   2.1. PROCESSOR ARCHITECTURES
     2.1.0. General
@@ -51,16 +50,16 @@ The ACM Computing Classification System (CCS) is a subject classification system
     2.5.4. VLSI Systems
     2.5.5. Servers
 
-3. `Software`
+3. **Software**
   3.0. GENERAL
-  3.1. `PROGRAMMING PARADIGMS`
+  3.1. *PROGRAMMING PARADIGMS*
     3.1.0. General
     3.1.1. Imperative Programming
     3.1.2. Object-oriented Programming
     3.1.3. Functional Programming
     3.1.4. Concurrent Programming
     3.1.5. Logic Programming
-  3.2. SOFTWARE ENGINEERING
+  3.2. *SOFTWARE ENGINEERING*
     3.2.0. General
     3.2.1. Requirements and Specifications
     3.2.2. Design Tools and Techniques
@@ -75,13 +74,13 @@ The ACM Computing Classification System (CCS) is a subject classification system
     3.2.11. Software Architectures
     3.2.12. Interoperability
     3.2.13. Reusable Software
-  3.3. PROGRAMMING LANGUAGES
+  3.3. *PROGRAMMING LANGUAGES*
     3.3.0. General
     3.3.1. Formal Definitions and Theory
     3.3.2. Language Classifications
     3.3.3. Language Constructs and Features
     3.3.4. Processors
-  3.4. OPERATING SYSTEMS
+  3.4. *OPERATING SYSTEMS*
     3.4.0. General
     3.4.1. Process Management
     3.4.2. Storage Management
@@ -94,7 +93,8 @@ The ACM Computing Classification System (CCS) is a subject classification system
     3.4.9. Systems Programs and Utilities
     3.4.m. Miscellaneous
   3.m. MISCELLANEOUS
-E.. Data
+
+4. **Data**
   E.0. GENERAL
   E.1. DATA STRUCTURES
   E.2. DATA STORAGE REPRESENTATIONS
@@ -102,7 +102,8 @@ E.. Data
   E.4. CODING AND INFORMATION THEORY
   E.5. FILES
   E.m. MISCELLANEOUS
-F.. Theory of Computation
+
+5. Theory of Computation
   F.0. GENERAL
   F.1. COMPUTATION BY ABSTRACT DEVICES
   F.1.0. General
@@ -129,7 +130,8 @@ F.. Theory of Computation
   F.4.3. Formal Languages
   F.4.m. Miscellaneous
   F.m. MISCELLANEOUS
-G.. Mathematics of Computing
+
+6. Mathematics of Computing
   G.0. GENERAL
   G.1. NUMERICAL ANALYSIS
   G.1.0. General
@@ -153,7 +155,8 @@ G.. Mathematics of Computing
   G.3. PROBABILITY AND STATISTICS
   G.4. MATHEMATICAL SOFTWARE
   G.m. MISCELLANEOUS
-H.. Information Systems
+
+H. Information Systems
   H.0. GENERAL
   H.1. MODELS AND PRINCIPLES
   H.1.0. General
@@ -196,16 +199,17 @@ H.. Information Systems
   H.5.5. Sound and Music Computing
   H.5.m. Miscellaneous
   H.m. MISCELLANEOUS
-I.. Computing Methodologies
+
+I. Computing Methodologies
   I.0. GENERAL
-  I.1. SYMBOLIC AND ALGEBRAIC MANIPULATION
+  I.1. *SYMBOLIC AND ALGEBRAIC MANIPULATION*
   I.1.0. General
   I.1.1. Expressions and Their Representation
   I.1.2. Algorithms
   I.1.3. Languages and Systems
   I.1.4. Applications
   I.1.m. Miscellaneous
-  I.2. ARTIFICIAL INTELLIGENCE
+  I.2. *ARTIFICIAL INTELLIGENCE*
   I.2.0. General
   I.2.1. Applications and Expert Systems
   I.2.2. Automatic Programming
@@ -219,7 +223,7 @@ I.. Computing Methodologies
   I.2.10. Vision and Scene Understanding
   I.2.11. Distributed Artificial Intelligence
   I.2.m. Miscellaneous
-  I.3. COMPUTER GRAPHICS
+  I.3. *COMPUTER GRAPHICS*
   I.3.0. General
   I.3.1. Hardware Architecture
   I.3.2. Graphics Systems
@@ -271,7 +275,8 @@ I.. Computing Methodologies
   I.7.5. Document Capture
   I.7.m. Miscellaneous
   I.m. MISCELLANEOUS
-J.. Computer Applications
+
+J. Computer Applications
   J.0. GENERAL
   J.1. ADMINISTRATIVE DATA PROCESSING
   J.2. PHYSICAL SCIENCES AND ENGINEERING
@@ -281,7 +286,8 @@ J.. Computer Applications
   J.6. COMPUTER-AIDED ENGINEERING
   J.7. COMPUTERS IN OTHER SYSTEMS
   J.m. MISCELLANEOUS
-K.. Computing Milieux
+
+K. Computing Milieux
   K.0. GENERAL
   K.1. THE COMPUTER INDUSTRY
   K.2. HISTORY OF COMPUTING
