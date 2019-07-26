@@ -1,7 +1,9 @@
 # Hierarchy
 
 - repo: `debrief.hierarchy`
-- desc: Attempt at building a hierarchy of math/cs subjects. 
+- title: math debrief. math debris?
+- desc: cause I wanna build hierarchy
 
 
-Debrief or debris?
+*"Car moi, je veux la hiérarchie! Et c'est la seule façon d'être!"*    
+-- Jacques Pourri

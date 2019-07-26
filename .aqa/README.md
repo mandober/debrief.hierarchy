@@ -1,7 +1,9 @@
 # AQA A Level Computer Science doc
 
 https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517
+
 https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/subject-content-a-level
+
 https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources
 
 
@@ -44,4 +46,3 @@ https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-
 * [ ] 4.12 Fundamentals of functional programming
 * [ ] 4.13 Systematic approach to problem solving
 * [ ] 4.14 Non-exam assessment - the computing practical project
-
